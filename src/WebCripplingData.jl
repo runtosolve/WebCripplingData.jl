@@ -1,5 +1,5 @@
 module WebCripplingData
 
-greet() = print("Hello World!")
+using CSV, DataFrames, JSON3
 
 end # module
