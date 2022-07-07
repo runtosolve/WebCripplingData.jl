@@ -5,6 +5,7 @@ using JSON
 using Base64
 using StringEncodings
 using JSONTables
+using DataStructures
 
 Data = CSV.read(pkgdir(WebCripplingData, "assets", "web_crippling_data.csv"), DataFrame)
 
