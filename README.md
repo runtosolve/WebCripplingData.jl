@@ -1,7 +1,7 @@
 # WebCripplingData
 
 ## C cross section
-![C cross section]("/Users/zhoushangqun/Documents/dev/WebCripplingData.jl/C_cross_section.png")
+![C cross section](https://github.com/runtosolve/WebCripplingData.jl/blob/WCD/C_cross_section.png?raw=true)
 ## B1
 flange length of the left C cross section in above image
 ## B2
